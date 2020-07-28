@@ -1,0 +1,10 @@
+void manager_UI();
+void movie_add_UI();
+void movie_delete_UI();
+void movie_manager_UI();
+void movie_start_UI();
+void movie_mode_UI();
+void movie_project_UI() ;
+void money_manager_UI()  ;
+void movie_money_UI()   ;
+void staff_money_UI()    ;
